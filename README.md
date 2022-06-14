@@ -1,4 +1,6 @@
 # LAP 3 
+Intro to building react app, components, fragments, babel, webpack.config.js and more.
+
 ## Building React app
 - `npm init -y`
 - `npm i react@17 react-dom@17 ` (install version 17)
